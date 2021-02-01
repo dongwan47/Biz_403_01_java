@@ -1,0 +1,65 @@
+7:30개방 / 6:00마감
+
+프로그램코딩
+데이터베이스
+springMVC
+웹 어플리케이션
+
+oracle= 자바저작권보유
+
+오라클 비번 : F
+
+https://oracle.com
+https://github.com/callor
+https://github.com
+https://git-scm.com
+https://eclipse.org
+
+-엑셀공부
+-컴활2급취득
+-의무교육의 it교육 알아보기
+-개발자/프로그래머/코더 차이점알기
+
+exe= 어플리케이션
+
+운영체제의 shell
+- 운영체제에 명령어(키보드)를 사용하여 운영체제를 사용하는 도구
+- 윈도우 : cmd(command)
+- Linux : bash shell
+
+서브라임 텍스트, sublime text
+16진수/바이널리파일/2진파일
+
+파일의 종류
+- Text 파일 : 메모장으로 열어서 내용을 확인 할수있는 파일
+- 이진파일(Binary file) : 그림, 음악, 동영상 ...
+
+jre
+jdk
+cui
+
+명령어 다음에는 반드시 1칸을 띄어주어야함 
+touch hello(o) thouchhello(x)
+
+touch(만들어라)
+
+: = 콜론
+; = 세미콜론
+
+ls(리소스) -al(모두) 서브라임텍스트
+
+-코딩을 할때 파일이름의 1번째 단어는 대문자로
+
+-아무런 문제가 없을시 아무런 결과도 안나옴
+
+컴파일러(javac)
+
+touch - 서브라임텍스트 - javac - java
+
+날코딩 = 서브라임텍스트 - java
+
+- 소스코드파일
+
+- 프로그램의 언어는 30여가지, 그중 java는 1위, 교육동안 배울 단어는 3가지 정도
+
+길벚, 영진
